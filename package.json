@@ -1,0 +1,21 @@
+{
+  "name": "NYUVIS2024",
+  "private": true,
+  "version": "0.0.1",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.4.5"
+  },
+  "dependencies": {
+    "@babylonjs/core": "^7.26.2",
+    "@babylonjs/inspector": "^7.26.2",
+    "@babylonjs/gui": "^7.26.2",
+    "@jpmorganchase/anu": "latest",
+    "d3": "latest"
+  }
+}
