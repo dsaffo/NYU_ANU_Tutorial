@@ -38,5 +38,7 @@ npm run start
 
 - [D3 Data Helpers](https://d3js.org/d3-array)
 
+- [Tutorial Slide](https://docs.google.com/presentation/d/1QBDub5ik9BiJXuhdMnytrIuZ-23lBx7iYoA8OTyiW2Q/edit?usp=sharing)
+
 
 
